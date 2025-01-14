@@ -1,7 +1,11 @@
 
 <div  align="center">
-  <h1 align="center">Hi 👋, I'm 깃허브 리드미 밈</h1>
-  <h3 align="center">A passionate frontend developer from India</h3>
+  <h1>👋</h1>
+  <h3>
+    <div>중요한건 </div>
+    <div>꺾이더라도 계속하는 </div>
+    <div>마음</div>
+  </h3>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangyonghan)](https://github.com/anuraghazra/github-readme-stats)
 </div>
